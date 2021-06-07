@@ -13,11 +13,11 @@
 
 3. Images and corresponding probability that predicted Right
 
-![model1_result](./img/model1_result)
+![model1_result](./img/model1_result.png)
 
 4. Images and corresponding probability that predicted Wrong
 
-![model1_failure](./img/model1_failure)
+![model1_failure](./img/model1_failure.png)
 
 
 ## MODEL 2 : 3 Layers with 1 Convolution layer
@@ -34,11 +34,11 @@
 
 3. Images and corresponding probability that predicted Right
 
-![model2_result](./img/model2_result)
+![model2_result](./img/model2_result.png)
 
 4. Images and corresponding probability that predicted Wrong
 
-![model2_failure](./img/model2_failure)
+![model2_failure](./img/model2_failure.png)
 
 ## MODEL 3 : 3 Layers with 1 Convolution layer
 
@@ -54,8 +54,8 @@
 
 3. Images and corresponding probability that predicted Right
 
-![model3_result](./img/model3_result)
+![model3_result](./img/model3_result.png)
 
 4. Images and corresponding probability that predicted Wrong
 
-![model3_failure](./img/model3_failure)
+![model3_failure](./img/model3_failure.png)
