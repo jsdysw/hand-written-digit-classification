@@ -1,4 +1,4 @@
-# hand_written_digit_classification
+# hand-written-digit-classification
 ## MODEL 1 : 3 Layers with 1 Convolution layer
 
 ![select_model1](./img/select_model1.png)
